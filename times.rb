@@ -1,5 +1,7 @@
-puts Wingardium Leviosa using_times
-	#your code here
+times do
+puts "Wingardium Leviosa"
+
+	#
 end
 
 
